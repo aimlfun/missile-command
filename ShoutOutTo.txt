@@ -1,0 +1,8 @@
+﻿Missile Command is an arcade game in which the player defends cities from nuclear attack by firing counter-missiles. The game's theme is a reflection of Cold War fears in the 1980s.
+
+A shout out to this URL, from which some important technical detail were gleaned (like display size):
+
+	https://6502disassembly.com/va-missile-command/
+	Missile Command (1980) Disassembly by Andy McFadden
+
+The code herein has little in common with the original code-base, but it helped!
