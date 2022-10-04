@@ -1,0 +1,12 @@
+﻿I've pre-trained the CPU ABMs. They are about 60% accurate, which far exceeds most mere mortals.
+
+Using genetic evolution isn't a super reliable / efficient way, so if you FAIL to deploy these files, it will
+attempt to learn based on a pattern of targets I used that eventually led to a pretty good missile system.
+
+Perceptrons without back-propagation can be hit-or-miss at finding the optimum.
+
+Playing the game to learn was too slow (given speed of missiles, pause to count etc). So I came up with specific
+alternating sides and altitudes to coax it into not becoming to "specialised" for left or right or top.
+Feel free to improve it.
+
+Copy all files in this folder to %appdata%\MissileDefenceAI\AIModels
